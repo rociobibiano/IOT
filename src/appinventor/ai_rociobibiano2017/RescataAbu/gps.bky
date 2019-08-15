@@ -1,0 +1,13 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="4H$gA!`x,yv_{^fX*_pU" x="-447" y="-215">
+    <mutation component_type="Camcorder" is_generic="false" instance_name="Grabador1" event_name="AfterRecording"></mutation>
+    <field name="COMPONENT_SELECTOR">Grabador1</field>
+    <statement name="DO">
+      <block type="component_method" id="(nNh{.1k|=zW+i:psdEc">
+        <mutation component_type="Camcorder" method_name="RecordVideo" is_generic="false" instance_name="Grabador1"></mutation>
+        <field name="COMPONENT_SELECTOR">Grabador1</field>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="185" language-version="26"></yacodeblocks>
+</xml>
